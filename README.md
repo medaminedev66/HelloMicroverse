@@ -1,12 +1,7 @@
 # HelloMicroverse
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-My first prject in Microverse program
+My first prject at Microverse program
 
 ## Built With
 
