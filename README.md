@@ -1,17 +1,25 @@
 # HelloMicroverse
 
-
-My first prject at Microverse program
+This is a practice project about creating my first project at Microverse and printing a message "Hello Microvers" using html and css files.
 
 ## Built With
 
-- Major languages Html and Css
-- Frameworks
-- Technologies used
+- Html and Css
+- No Frameworks
+
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+To get a local copy up and running follow these simple example steps.
+
+### Setup
+Download this GitHub Repo and go the index.html file
+### Install
+Set up liveserver as an extension in your VS Code
+### Usage
+Right click and open the index.html in your browser to view
 
 ## Authors
 
@@ -40,4 +48,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is MIT licensed.
